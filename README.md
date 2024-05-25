@@ -258,12 +258,12 @@ The system architecture is designed to facilitate a streamlined flow from data c
 - **Model Training:** Utilizes a three-layered CNN and the YOLOv5 model for object detection.
 
 
-![SYSTEM ARCHITECTURE](images and videos/archietecture.jpeg)
+![SYSTEM ARCHITECTURE](images%20and%20videos/archietecture.jpeg)
 
 
 ## INTERFACE
 
-![INTERFACE](images and videos/interface.jpeg)
+![INTERFACE](images%20and%20videos/interface.jpeg)
 
 
 ## Contributors
