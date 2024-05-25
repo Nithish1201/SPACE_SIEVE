@@ -7,6 +7,7 @@ By integrating two distinct datasets, our goal is to incorporate debris of vario
 
 It should be of concern to all. Whether it's someone using a smartphone, checking the weather, or navigating with GPS, satellites are integral to these services. However, the increasing clutter of defunct satellites and debris in space poses a significant risk of collision with operational satellites, disrupting these essential services. The addition of more satellites into an already congested space heightens these risks and complicates the expansion of global communication networks. Furthermore, this initiative is crucial in tackling the issue of space debris through strategies like Active Debris Removal (ADR) and the use of Solar Sails.
 
+[Watch the video demonstration of our project](images%20and%20videos/video.mp4)
 
 ## Table of Contents
 - [Installation & Setup](#installation--setup)
